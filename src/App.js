@@ -153,7 +153,11 @@ function App() {
       {capturedImage && (
         <div className="app__output">
           <h3>Captured Frame:</h3>
-          <img src={capturedImage} alt="Captured Frame" />
+          <img
+            style={{ transform: "scaleX(-1)" }}
+            src={capturedImage}
+            alt="Captured Frame"
+          />
           {captureTime && (
             <p>Captured Time: {captureTime.toFixed(0)} seconds</p>
           )}
