@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haliaa/webcam-example/static/css/main.93d01cf0.css",
+    "main.js": "/haliaa/webcam-example/static/js/main.afd21657.js",
+    "static/js/453.a5d970c0.chunk.js": "/haliaa/webcam-example/static/js/453.a5d970c0.chunk.js",
+    "index.html": "/haliaa/webcam-example/index.html",
+    "main.93d01cf0.css.map": "/haliaa/webcam-example/static/css/main.93d01cf0.css.map",
+    "main.afd21657.js.map": "/haliaa/webcam-example/static/js/main.afd21657.js.map",
+    "453.a5d970c0.chunk.js.map": "/haliaa/webcam-example/static/js/453.a5d970c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d01cf0.css",
+    "static/js/main.afd21657.js"
+  ]
+}
