@@ -5,8 +5,8 @@ function App() {
   const [playing, setPlaying] = useState(false);
   const [capturedImage, setCapturedImage] = useState(null);
   const [videoInfo, setVideoInfo] = useState(null);
-  const [currentTime, setCurrentTime] = useState(0); // State to store current time
-  const [captureTime, setCaptureTime] = useState(null); // State to store capture time
+  const [currentTime, setCurrentTime] = useState(0); 
+  const [captureTime, setCaptureTime] = useState(null); 
   const videoRef = useRef(null);
   const canvasRef = useRef(null);
 
